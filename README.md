@@ -23,5 +23,5 @@ A console-based Contact Management System developed as a final project for the *
 - Show total number of contacts
 - Menu-driven interface
 
-## 📂 File Structure
+
 
